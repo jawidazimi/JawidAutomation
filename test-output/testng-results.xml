@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17717" started-at="2024-06-30T16:34:11Z" finished-at="2024-06-30T16:34:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17717" started-at="2024-06-30T16:34:11Z" finished-at="2024-06-30T16:34:29Z">
+      <class name="com.all.IHGTest">
+        <test-method status="PASS" signature="IHG()[pri:0, instance:com.all.IHGTest@6e3c1e69]" name="IHG" duration-ms="4600" started-at="2024-06-30T12:34:21Z" finished-at="2024-06-30T12:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IHG -->
+      </class> <!-- com.all.IHGTest -->
+      <class name="com.all.AmazonTest">
+        <test-method status="PASS" signature="amazon()[pri:0, instance:com.all.AmazonTest@35851384]" name="amazon" duration-ms="1791" started-at="2024-06-30T12:34:27Z" finished-at="2024-06-30T12:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+      </class> <!-- com.all.AmazonTest -->
+      <class name="com.all.OrangeHRMTest">
+        <test-method status="PASS" signature="hrm()[pri:0, instance:com.all.OrangeHRMTest@6833ce2c]" name="hrm" duration-ms="9006" started-at="2024-06-30T12:34:12Z" finished-at="2024-06-30T12:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrm -->
+      </class> <!-- com.all.OrangeHRMTest -->
+      <class name="com.all.FacebookTest">
+        <test-method status="PASS" signature="fb()[pri:0, instance:com.all.FacebookTest@1888ff2c]" name="fb" duration-ms="2305" started-at="2024-06-30T12:34:25Z" finished-at="2024-06-30T12:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb -->
+      </class> <!-- com.all.FacebookTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
